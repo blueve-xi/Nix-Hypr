@@ -1,5 +1,5 @@
 # Nix-Hypr
-Hyprland configuration for Nixos
+Hyprland configuration for Nixos <br />
 :snowflake:  Codename:Snowfall :snowflake:
 My personal Hyprland configuration for NixOS build.<br />
 ![image alt](https://github.com/blueve-xi/photo/blob/a121d8a5110954a3a0c6535f5de8f03cf6ed9c46/nixos.png)<br />
