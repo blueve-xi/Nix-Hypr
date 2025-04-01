@@ -2,7 +2,7 @@
 Hyprland configuration for Nixos
 :snowflake:  Codename:Snowfall :snowflake:
 My personal Hyprland configuration for NixOS build.<br />
-![image alt])<br />
+![image alt](https://github.com/blueve-xi/photo/blob/a121d8a5110954a3a0c6535f5de8f03cf6ed9c46/nixos.png)<br />
 Instructions<br />
 <ul>
 <li>Most files will be dropped in the home directory, edit the hyprland config controls if neeeded.<br />
